@@ -1,0 +1,139 @@
+{
+  :bundle {
+    :output-directory "F:\\Daten\\Game Dev\\DefoldRelease\\luamqtt"
+  }
+  :code {
+    :find {
+      :case-sensitive false
+      :replacement "IN_6"
+      :term "defsave"
+      :whole-word false
+      :wrap false
+    }
+  }
+  :git {
+    :credentials {
+      "D:\\Daten\\Game Dev\\DefoldProjectsGit\\MadBomber" {
+        :encrypted-checksum "2GPeySE49jXl08N2Fsw8q2s8lllirLjjiTWvEczjkz2mcSpDa7_GMKaKbSq-VXy0"
+        :encrypted-password "7qayAcYKvYgO6uENNQdKLfs2-rjnfYuNYWf0YzjEapYCb6AW8LIDqag-8ccUss1q"
+        :encrypted-username "evNNsw2T6dH1BI9Vr0BNnVhZp_LPoinEatJ8CNePDNE="
+      }
+      "D:\\Daten\\Game Dev\\DefoldProjectsGit\\pahoMQTT-for-Defold" {
+        :encrypted-checksum "blCHPTmNaoO4ih1NHNxniiX5QW15stIPMEVK6X_UMnK1AjjFn5FSsDdKr_HVls_L"
+        :encrypted-password "4sMJpaIMSzMOMcRvGr4Se2TxQatX1I9KR8ff7XwisKRW-kS6yMkS4wDd33lNPl-e"
+        :encrypted-username "nIUC4N8FOm5h9Eznk2kQKai95d0OdDMYPdXZu33I7ns="
+      }
+      "F:\\Daten\\Game Dev\\DefoldProjectsGit\\pahoMQTT-for-Defold" {
+        :encrypted-checksum "EjafYLHYcH_J9jD7Z91oQAhOzIJa3dXvMLkW6kF0zqAzdQ7qEAExKQ7Yvj4dijAn"
+        :encrypted-password "3KUHLT0Tnb2Gz98bxSIdrQBRq2WaVkgf4Yha8KFGjlk--qiMD8UgAjr8k2uhgGHzXqhjI36rFZE8Sh8MjDu0ZA=="
+        :encrypted-username "hPt5zvHwpYkBAdyI-Zz8UwcJ5w4lfu0fluywHJ-xISM="
+      }
+    }
+  }
+  :open-assets {
+    :term ""
+  }
+  :run {
+    :instance-count 1
+  }
+  :workflow {
+    :recent-files [
+      [
+        "/input/game.input_binding"
+        :cljfx-form-view
+      ]
+      [
+        "/mqtt/bit53.lua"
+        :code
+      ]
+      [
+        "/mqtt/bitwrap.lua"
+        :code
+      ]
+      [
+        "/mqtt/ngxsocket.lua"
+        :code
+      ]
+      [
+        "/mqtt/luasocket-copas.lua"
+        :code
+      ]
+      [
+        "/main/mqtttest.script"
+        :code
+      ]
+      [
+        "/main/main.collection"
+        :scene
+      ]
+      [
+        "/mqtt/const.lua"
+        :code
+      ]
+      [
+        "/mqtt/ioloop.lua"
+        :code
+      ]
+      [
+        "/mqtt/luasocket.lua"
+        :code
+      ]
+      [
+        "/mqtt/luasocket_ssl.lua"
+        :code
+      ]
+      [
+        "/mqtt/tools.lua"
+        :code
+      ]
+      [
+        "/example/example.collection"
+        :scene
+      ]
+      [
+        "/example/example.gui"
+        :scene
+      ]
+      [
+        "/mqtt/init.lua"
+        :code
+      ]
+      [
+        "/example/test.gui_script"
+        :code
+      ]
+      [
+        "/mqtt/protocol.lua"
+        :code
+      ]
+      [
+        "/mqtt/protocol2.lua"
+        :code
+      ]
+      [
+        "/mqtt/protocol5.lua"
+        :code
+      ]
+      [
+        "/mqtt/protocol4.lua"
+        :code
+      ]
+      [
+        "/mqtt/client.lua"
+        :code
+      ]
+      [
+        "/game.project"
+        :cljfx-form-view
+      ]
+      [
+        "/README.md"
+        :html
+      ]
+      [
+        "/example/example.gui_script"
+        :code
+      ]
+    ]
+  }
+}
