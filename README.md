@@ -143,7 +143,7 @@ Used to initialise the ioloop, called once after the setup is done and the clien
 **PARAMETERS**
 * `client` (variable) - The variable of the created mqtt.client
 
-    mqtt.init_ioloop(client)
+      mqtt.init_ioloop(client)
 
 ### mqtt.iterate_ioloop()
 Used to iterate the ioloop. Use this in your update() function
