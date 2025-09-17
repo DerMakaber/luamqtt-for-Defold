@@ -75,10 +75,6 @@
         :code
       ]
       [
-        "/mqtt/luasocket.lua"
-        :code
-      ]
-      [
         "/mqtt/luasocket_ssl.lua"
         :code
       ]
@@ -123,16 +119,24 @@
         :code
       ]
       [
-        "/game.project"
-        :cljfx-form-view
-      ]
-      [
         "/README.md"
         :html
       ]
       [
         "/example/example.gui_script"
         :code
+      ]
+      [
+        "/mqtt/luasocket.lua"
+        :code
+      ]
+      [
+        "/game.project"
+        :cljfx-form-view
+      ]
+      [
+        "/game.project"
+        :text
       ]
     ]
   }
